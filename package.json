@@ -1,0 +1,15 @@
+{
+  "name": "webdv2_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.22.3"
+  },
+  "devDependencies": {}
+}
